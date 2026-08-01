@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "title": "eggs",
+        "amount": 24.0,
+        "category": "Food",
+        "date": "2026-08-01"
+    },
+    {
+        "id": 3,
+        "title": "petrol",
+        "amount": 100.0,
+        "category": "travel",
+        "date": "2026-08-01"
+    }
+]
